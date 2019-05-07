@@ -16,6 +16,7 @@ class About extends Component {
               className="about-img"
               alt={config.userName}
             />
+            <div>Marek</div>
             <CardText>
               <p className="about-text md-body-1">{config.userDescription}</p>
             </CardText>
